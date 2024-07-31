@@ -14,50 +14,50 @@ To utilize my expertise in statistical analysis, data visualization, and machine
 
 #### Key Activities:
 
-#### ---Data Cleaning and Preparation: Ensuring data accuracy and reliability by handling missing values, outliers, and transforming variables for better analysis.
+###### ---Data Cleaning and Preparation: Ensuring data accuracy and reliability by handling missing values, outliers, and transforming variables for better analysis.
 
-#### ---Exploratory Data Analysis (EDA): Utilizing pandas, numpy, matplotlib, and seaborn to explore data characteristics, distributions, correlations, and outliers.
+###### ---Exploratory Data Analysis (EDA): Utilizing pandas, numpy, matplotlib, and seaborn to explore data characteristics, distributions, correlations, and outliers.
 
-#### ---Visualization: Creating insightful visualizations such as histograms, scatter plots, and heatmaps to uncover patterns and trends in the data.
+###### ---Visualization: Creating insightful visualizations such as histograms, scatter plots, and heatmaps to uncover patterns and trends in the data.
 
-#### ---Statistical Analysis: Applying statistical tests and modeling techniques to validate assumptions and derive meaningful insights.
+###### ---Statistical Analysis: Applying statistical tests and modeling techniques to validate assumptions and derive meaningful insights.
 
-#### ---Dashboard Development: Building interactive dashboards using tools like Power BI to communicate findings and support data-driven decision-making.
+###### ---Dashboard Development: Building interactive dashboards using tools like Power BI to communicate findings and support data-driven decision-making.
 
-#### ---Segmentation Analysis: Identifying customer and seller segments based on behavior and revenue to inform targeted strategies.
+###### ---Segmentation Analysis: Identifying customer and seller segments based on behavior and revenue to inform targeted strategies.
 
-#### ---Machine Learning: Implementing supervised and unsupervised learning techniques to solve business problems and predict future trends.
+###### ---Machine Learning: Implementing supervised and unsupervised learning techniques to solve business problems and predict future trends.
 
-#### ---Reporting: Compiling comprehensive reports and summaries of analysis, including actionable recommendations for stakeholders.
+###### ---Reporting: Compiling comprehensive reports and summaries of analysis, including actionable recommendations for stakeholders.
 
  
  
  
  #### Technologies and Libraries USED:
 
- #### ----------Python Libraries:
+ ##### ----------Python Libraries:
              
-  #### pandas: For data manipulation and analysis.
-  #### NumPy: For numerical operations and statistical calculations.
-  #### SciPy: For scientific and technical computing, including statistical tests.
+  ###### pandas: For data manipulation and analysis.
+  ###### NumPy: For numerical operations and statistical calculations.
+  ###### SciPy: For scientific and technical computing, including statistical tests.
         
-#### ------------Data Visualization:
+##### ------------Data Visualization:
 
- #### Matplotlib: For creating static, interactive, and animated plots.
- #### Seaborn: For statistical data visualization, built on top of Matplotlib.
+ ###### Matplotlib: For creating static, interactive, and animated plots.
+ ###### Seaborn: For statistical data visualization, built on top of Matplotlib.
 
-#### ------------Jupyter Notebooks: For interactive coding, visualization, and documenting your analysis process.
+##### ------------Jupyter Notebooks: For interactive coding, visualization, and documenting your analysis process.
 
-#### ------------Anaconda: A distribution that includes Python and many of the libraries needed for data science, along with package management tools like conda.
+##### ------------Anaconda: A distribution that includes Python and many of the libraries needed for data science, along with package management tools like conda.
 
 
 #### Key Insights:
 
-#### ---Customer Segmentation: Identify high-value vs. low-value customers for targeted marketing.
+###### ---Customer Segmentation: Identify high-value vs. low-value customers for targeted marketing.
 
-#### ---Product Combinations: Find top-selling product pairings to improve cross-selling.
+###### ---Product Combinations: Find top-selling product pairings to improve cross-selling.
 
-#### ---Payment Behavior: Determine most-used payment methods and channels.
+###### ---Payment Behavior: Determine most-used payment methods and channels.
 
-#### ---Customer Satisfaction: Highlight best and worst-rated products and categories.
+###### ---Customer Satisfaction: Highlight best and worst-rated products and categories.
 
